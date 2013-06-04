@@ -1,0 +1,1 @@
+este ficheiro só deve aparecer na otherBranch
